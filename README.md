@@ -1,2 +1,2 @@
 # nu-ds-bootcamp
-This repository stores files for Northwestern DS bootcamp
+Using pivot table. vlookup, and conditional formatting to analyze crowfunding projects
